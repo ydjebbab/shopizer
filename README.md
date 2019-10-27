@@ -1,5 +1,5 @@
 Official Shopizer 2.0.3
--------------------
+-------------
 Java open source e-commerce software
 
 - Shopping cart
